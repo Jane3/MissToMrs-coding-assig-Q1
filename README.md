@@ -21,9 +21,11 @@ To use the react-places-autocomplete component, you are going to need to load Go
     <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
 
 To get your API key, please refer to the following documentation: 
+https://developers.google.com/maps/documentation/embed/get-api-key
 
-    https://developers.google.com/maps/documentation/embed/get-api-key
+To run the project, use the following command: 
 
+    npm start
 
 # Deployment 
 
