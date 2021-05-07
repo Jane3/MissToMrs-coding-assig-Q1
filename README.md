@@ -27,7 +27,11 @@ To run the project, use the following command:
 
     npm start
 
-# Deployment 
+# Deployment
+
+I used Heroku to deploy my web form form. Please refer to the following published link: 
+
+
 
 
 
