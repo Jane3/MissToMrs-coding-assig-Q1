@@ -2,7 +2,9 @@
 
 This coding assignment contains the general web form that asks the users to type in their "First name", "Last name", "Email", "Password", and "Address". This project is implemented in React.js. 
 
-The "Address" field has autocomplete feature that shows a list of suggestions based on the value the user has inputted.  
+The "Address" field has autocomplete feature that shows a list of suggestions based on the value the user has inputted. 
+
+You may see a screenshot of the web form by going to the screenshot-demo.png.
 
 # Installation
 
